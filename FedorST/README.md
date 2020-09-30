@@ -1,4 +1,4 @@
-# mfresh_app
+# FedorST
 
 ## Project setup
 ```
